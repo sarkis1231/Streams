@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great Stream",
+      "id": 2
+    },
+    {
+      "title": "My Stream",
+      "description": "Here's some stream",
+      "id": 8
+    },
+    {
+      "title": "heloo my name is sarkis ",
+      "description": "this's my new Stream you can watch it",
+      "userId": "111139159764730413105",
+      "id": 9
+    },
+    {
+      "title": "sako",
+      "description": "kozanoghli",
+      "userId": "111139159764730413105",
+      "id": 10
+    },
+    {
+      "title": "sadas",
+      "description": "dasdas",
+      "userId": "111139159764730413105",
+      "id": 11
+    }
+  ]
+}
